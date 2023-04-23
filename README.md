@@ -22,8 +22,11 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+(![image](https://user-images.githubusercontent.com/102142446/233814472-a3e4595c-d212-4661-a7b2-8e3348ea86d7.png)](https://www.buymeacoffee.com/darrylmbae)
 
-[![alt text](![image](https://user-images.githubusercontent.com/102142446/233814472-a3e4595c-d212-4661-a7b2-8e3348ea86d7.png)](https://www.buymeacoffee.com/darrylmbae)
 
-![image](https://user-images.githubusercontent.com/102142446/233814194-5fce9b52-48fd-48f9-b33f-40e3b19a3afc.png)
         
