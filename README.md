@@ -9,5 +9,6 @@
 - ⚡ Fun fact: What are computers' favorite snacks? Microchips, phish sticks, and cookies. But just a few bytes of each.
 
 ## Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Java" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
           
