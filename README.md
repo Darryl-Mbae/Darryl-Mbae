@@ -20,17 +20,6 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-[![alt text](https://user-images.githubusercontent.com/102142446/233814603-448bca35-747e-48e7-84a4-42782d48a5f2.png)](https://url-to-redirect-to-on-click/)
-
-![image](https://user-images.githubusercontent.com/102142446/233814603-448bca35-747e-48e7-84a4-42782d48a5f2.png)
-
-
 
 
         
