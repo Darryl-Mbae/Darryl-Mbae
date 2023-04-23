@@ -22,7 +22,8 @@
 
 <br>
 <br>
-## [Link to portfolio](darryl-mbae.web.app)
+
+[Link to portfolio](darryl-mbae.web.app)
 
 ## Support me
 
