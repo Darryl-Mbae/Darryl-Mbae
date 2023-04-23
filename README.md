@@ -26,7 +26,9 @@
 <br>
 <br>
 <br>
-[![alt text](https://user-images.githubusercontent.com/102142446/233814472-a3e4595c-d212-4661-a7b2-8e3348ea86d7.png)](https://www.buymeacoffee.com/darrylmbae)
+[![alt text](https://user-images.githubusercontent.com/102142446/233814603-448bca35-747e-48e7-84a4-42782d48a5f2.png)](https://url-to-redirect-to-on-click/)
+
+![image](https://user-images.githubusercontent.com/102142446/233814603-448bca35-747e-48e7-84a4-42782d48a5f2.png)
 
 
 
