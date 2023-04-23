@@ -20,7 +20,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-   ![image](https://user-images.githubusercontent.com/102142446/233814263-8edbd23c-2f96-4dd5-8e05-f30c002b7cf6.png)(https://www.buymeacoffee.com/darrylmbae)
- 
-  ![image](https://user-images.githubusercontent.com/102142446/233814194-5fce9b52-48fd-48f9-b33f-40e3b19a3afc.png)
+
+[![alt text](https://user-images.githubusercontent.com/102142446/233814263-8edbd23c-2f96-4dd5-8e05-f30c002b7cf6.png)](https://www.buymeacoffee.com/darrylmbae)
+
+![image](https://user-images.githubusercontent.com/102142446/233814194-5fce9b52-48fd-48f9-b33f-40e3b19a3afc.png)
         
