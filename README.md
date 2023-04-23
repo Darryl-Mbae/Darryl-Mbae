@@ -24,6 +24,7 @@
 <br>
 
 [Link to portfolio](darryl-mbae.web.app)
+<img align="left" alt="Java" width="300px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/102142446/233832840-cdc0a26c-ae0e-4409-a408-9c0868885d67.png" />
 
 ## Support me
 
