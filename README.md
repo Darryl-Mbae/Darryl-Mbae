@@ -8,3 +8,6 @@
 - 📫 How to reach me: [Email](mailto:darrylmbae@icloud.com)
 - ⚡ Fun fact: What are computers' favorite snacks? Microchips, phish sticks, and cookies. But just a few bytes of each.
 
+## Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
