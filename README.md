@@ -27,7 +27,7 @@
 <a href="https://darryl-mbae.web.app"><img align="left" alt="Java" width="300px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/102142446/233832840-cdc0a26c-ae0e-4409-a408-9c0868885d67.png" /></a><br>
 
 ## Support me
-<a href="https://www.buymeacoffee.com/darrylmbae"><img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/102142446/233832417-46e36f34-69a6-4c5b-8470-43081ca17614.png" /></a>
+<a href="https://www.buymeacoffee.com/darrylmbae"><img width="100px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/102142446/233832417-46e36f34-69a6-4c5b-8470-43081ca17614.png" /></a>
 
 
 
