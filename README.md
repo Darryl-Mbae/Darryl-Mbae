@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Front+End+Developer;I+am+a+Machine+Learning+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Front+End+Developer;I+am+a+Machine+Learning+Expert;I+am+an+API+Developer)](https://git.io/typing-svg)
 # Hi I am Darryl 👋
 
 ## I am a motivated young gritty professional with a burning passion to progress within the IT Industry
