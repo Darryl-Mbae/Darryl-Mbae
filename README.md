@@ -3,8 +3,8 @@
 
 ## I am a motivated young gritty professional with a burning passion to progress within the IT Industry
  
-- 🔭 I’m currently an ALX student (Cohort_15✨)
-- 🌱 I’m currently learning Software Engineering
+- 🔭 I’m currently have 3 years of experience and counting
+- 🌱 I’m currently pursuing my dreams😂 but have accredited certifications.Check out portfolio
 - 📫 How to reach me: [Email](mailto:darrylmbae@icloud.com)
 - ⚡ Fun fact: What are computers' favorite snacks? Microchips, phish sticks, and cookies. But just a few bytes of each.
 
