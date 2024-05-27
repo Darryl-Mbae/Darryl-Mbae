@@ -24,7 +24,7 @@
 <br>
 
 ## Portfolio
-<a href="https://darryl-mbae.web.app">https://darryl-mbae.com</a>
+<a href="https://dm-project-1.web.app" target:"_blank">https://darryl-mbae.com</a>
 
 
 
