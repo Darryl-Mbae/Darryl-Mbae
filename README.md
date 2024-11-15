@@ -4,7 +4,9 @@
 ## I am a motivated young gritty professional with a burning passion to progress within the IT Industry
  
 - 🔭 I’m currently have 3 years of experience and counting
-- 🌱 I’m currently pursuing my dreams😂 but have accredited certifications.Check out portfolio
+- 🌱 I’m currently pursuing my dreams😂 but have accredited certifications.
+- ![image](https://github.com/user-attachments/assets/ace4938d-8007-4adc-a78d-11abcf2580f9) Beased in Nairobi, Kenya
+
 - 📫 How to reach me: [Email](mailto:darrylmbae@icloud.com)
 - ⚡ Fun fact: What are computers' favorite snacks? Microchips, phish sticks, and cookies. But just a few bytes of each.
 
