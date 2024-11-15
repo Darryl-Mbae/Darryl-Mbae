@@ -5,8 +5,7 @@
  
 - 🔭 I’m currently have 3 years of experience and counting
 - 🌱 I’m currently pursuing my dreams😂 but have accredited certifications.
-- 🇰🇪 Beased in Nairobi, Kenya
-
+- 📍 Beased in Nairobi, Kenya
 - 📫 How to reach me: [Email](mailto:darrylmbae@icloud.com)
 - ⚡ Fun fact: What are computers' favorite snacks? Microchips, phish sticks, and cookies. But just a few bytes of each.
 
