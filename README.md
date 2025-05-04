@@ -2,10 +2,10 @@
 # Hi I am Darryl 👋
 
 ## I am a motivated young gritty professional with a burning passion to progress within the IT Industry
- 
-- 🔭 I’m currently have 3 years of experience and counting
-- 🌱 I’m currently pursuing my dreams😂 but have accredited certifications.
-- 📍 Beased in Nairobi, Kenya
+
+🔭 I have over 3 years of professional experience in the front end developing industry.
+🌱 Currently advancing my career with accredited certifications and continuous learning.
+📍 Based in Nairobi, Kenya.
 - 📫 How to reach me: [Email](mailto:darrylmbae@icloud.com)
 - ⚡ Fun fact: What are computers' favorite snacks? Microchips, phish sticks, and cookies. But just a few bytes of each.
 
