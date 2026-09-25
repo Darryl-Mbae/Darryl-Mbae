@@ -4,10 +4,6 @@
 
 `Full-Stack Developer` · `Nairobi, Kenya 🇰🇪`
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;I+build+things+that+live+on+screens...;React+%7C+Node.js+%7C+PostgreSQL;Currently%3A+building%2C+breaking%2C+shipping." alt="Typing SVG" />
-</a>
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://darryl-mbae.netlify.app/)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:darrylmbae@icloud.com)
 
