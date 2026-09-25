@@ -106,18 +106,7 @@ $ git log --oneline -1 side-project
 
 <br/>
 
-```bash
-$ neofetch --stats
-```
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="165"/>
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
