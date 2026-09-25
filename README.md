@@ -89,28 +89,5 @@ $ cat stack.json
 
 <br/>
 
-```bash
-$ git log --oneline -1 side-project
-```
-
-> **`motion-alarm`** — A motion detection system built around the ESP32, exploring embedded
-> firmware, device states, and connected-device communication.
->
-> [`→ explore the repo`](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
 
 
-
-<br/>
-
-
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=39FF14)](https://darryl-mbae.netlify.app/)
-[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:darrylmbae@icloud.com)
-
-```
-> curiosity in. code out. _
-```
-
-</div>
